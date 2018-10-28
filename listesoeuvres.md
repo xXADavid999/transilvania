@@ -1,6 +1,6 @@
 # Listes des oeuvres à étudier
 
-Vous devez mentionner votre nom après l'oeuvre choisie. 
+Vous devez mentionner *votre nom après* l'oeuvre choisie. 
 Pour cela, il faut éditer simplement ce document en ajoutant votre nom à la suite de l'oeuvre mentionnée.
 Attention, la plupart des ouvrages sont trouvables en ligne, mais il faut parfois transformer l'oeuvre pour la rendre exploitable en mode texte. 
 On peut ainsi trouver des epub ou pdf, à vous de récupérer un . txt que vous pourrez ensuite encoder pour iramuteq.
