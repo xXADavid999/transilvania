@@ -26,6 +26,4 @@ Le dossier doit comprendre :
 
 # Remise du travail. Deadline : *15 décembre 2018.*
 
-Oeuvres à étudier :
-Jules Verne. Le château des Carpathes.
-Elisée Reclus.
+Listes des oeuvres à étudier.https://github.com/oledeuff/transilvania/blob/master/listesoeuvres
