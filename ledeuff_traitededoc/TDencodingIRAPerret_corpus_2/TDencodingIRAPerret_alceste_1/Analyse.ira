@@ -1,0 +1,25 @@
+[alceste]
+mincl = 0
+encoding = cp1252
+classif_mode = 1
+mode.patate = 0
+nbforme_uce = 0
+expressions = 1
+pathout = C:\Users\Olivier\Downloads\TDencodingIRAPerret_corpus_2\TDencodingIRAPerret_alceste_1
+uuid = e3e4c11d-4113-4bc1-8097-9a79880fca9b
+svdmethod = irlba
+nbactives = 2607
+ira = C:\Users\Olivier\Downloads\TDencodingIRAPerret_corpus_2\TDencodingIRAPerret_alceste_1\Analyse.ira
+corpus = 03719035-d114-4d31-9746-24e027f2c1eb
+type = alceste
+clnb = 6
+minforme = 2
+lem = 1
+eff_min_forme = 8
+tailleuc1 = 12
+max_actives = 3000
+name = TDencodingIRAPerret_alceste_1
+nbcl_p1 = 10
+time = 0h 5m 25s
+nbcl = 4
+tailleuc2 = 14

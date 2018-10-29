@@ -1,0 +1,16 @@
+[corpus]
+pathout = C:\Users\Olivier\Downloads\TDencodingIRAPerret_corpus_2\SubTDencodingIRAPerret_corpus_2_1
+uuid = f8574e30-1908-43da-a2d9-c8632c55adfb
+encoding = utf-8
+formesnb = 767
+ucinb = 1
+hapax = 500 - 65.19 % des formes - 22.85 % des occurrences
+ucenb = 62
+meta = [u'*partie_0']
+originalpath = C:\Users\Olivier\Downloads\TDencodingIRAPerret.txt
+corpus_name = SubTDencodingIRAPerret_corpus_2
+time = 0h 0m 0s
+date = Mon Oct 29 19:49:06 2018
+ira = C:\Users\Olivier\Downloads\TDencodingIRAPerret_corpus_2\SubTDencodingIRAPerret_corpus_2_1\Corpus.cira
+type = corpus
+occurrences = 2188
