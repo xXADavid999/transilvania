@@ -12,7 +12,7 @@ Si votre document a été numérisé en mode image, indiquez comment vous avez p
 3. Paul Féval. La ville vampire
 4. Paul Féval. Les frères ténèbre.
 5. Elisée Reclus. Nouvelle géographie universelle.
-6. Jules Verne. Le tour du monde en 80 jours.
+6. Jules Verne. Le tour du monde en 80 jours. Antoine David
 7. Jules Verne. Le secret de Wilhem Storitz
 8. Robur le conquérant
 9. Vingt mille lieues sous les mers
