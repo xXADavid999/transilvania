@@ -1,10 +1,10 @@
 # transilvania
-Voici les instruction pour le travail à réaliser.
+Voici les instruction pour le travail à réaliser. <!--  consignes-->
 
 # Mission master HD.
 ## Objectifs généraux.
-La mission à démontrer vos compétences et vos apprentissages en utilisant plusieurs outils. 
-L'utilisation d'une plateforme de type GIT est devenue monnaire courante en matière de projets informatiques mais aussi en ce qui concerne des projets de recherche. 
+La mission à démontrer vos compétences et vos apprentissages en utilisant plusieurs outils.
+L'utilisation d'une plateforme de type GIT est devenue monnaire courante en matière de projets informatiques mais aussi en ce qui concerne des projets de recherche.
 De nouveaux carnets se développent dans le même esprit.
 
 ### objectif spécifique
@@ -21,8 +21,9 @@ Le dossier doit comprendre :
 3. La version epub de la même œuvre
 4. Votre visualisation de données
 5. Le fichier en CSV des occurrences
-6. Bonus : le fichier gephi des relations entre les mots.
-7. Bonus : tous les fichiers qui potentiellement pourront être réexploités par la suite pour d'autres recherches.
+6. Un fichier en .md qui répond à la question suivante : en quoi la digitalisation de l'oeuvre permet-elle d'envisager de nouvelles possibilités en Humanités Digitales ? Vous pouvez prendre appui sur le travail que vous avez réalisé et mentionner quelques travaux et références en Humanités digitales.
+7. Bonus : le fichier gephi des relations entre les mots.
+8. Bonus : tous les fichiers qui potentiellement pourront être réexploités par la suite pour d'autres recherches.
 
 # Remise du travail. Deadline : *15 décembre 2018.*
 
