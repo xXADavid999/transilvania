@@ -7,18 +7,18 @@ On peut ainsi trouver des epub ou pdf, à vous de récupérer un . txt que vous 
 Dans votre fichier .md, pensez à citer la source utilisée de votre document (gallica, wikisource, etc.).
 Si votre document a été numérisé en mode image, indiquez comment vous avez procéder pour obtenir du texte exploitable via un système d'OCR par exemple.
 
-1. Jules Verne. Le château des carpathes.
+1. Jules Verne. Le château des carpathes. Ophélie hersant 
 2. Jules Verne. Mathias Sandorf.
-3. Paul Féval. La ville vampire
+3. Paul Féval. La ville vampire. Meghan L'higuinen
 4. Paul Féval. Les frères ténèbre.
 5. Elisée Reclus. Nouvelle géographie universelle.
-6. Jules Verne. Le tour du monde en 80 jours.
+6. Jules Verne. Le tour du monde en 80 jours. Antoine David.
 7. Jules Verne. Le secret de Wilhem Storitz
-8. Robur le conquérant
-9. Vingt mille lieues sous les mers
-10. Georges Sand. Laura- Voyage dans le cristal
-11. Jules Verne. Voyage au centre de la terre.
+8. JUles Verne. Robur le conquérant
+9. Vingt mille lieues sous les mers.  Jeanne Rolland
+10. Georges Sand. Laura- Voyage dans le cristal. Jean David
+11. Jules Verne. Voyage au centre de la terre. Mélanie Aubry
 12. Paul Féval. Les mystères de Londres.
-13. Eugène Sue. Les mystères de Paris.
+13. Eugène Sue. Les mystères de Paris. Abbas Sonia
 14. Paul Otlet. Monde, essai d'universalisme.
 15. Jules Verne. au choix
